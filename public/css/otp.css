@@ -16,15 +16,9 @@ html{
     height: 100vh
 }
 
-
-
-.mobile-text {
+.email-text {
     color: #989696b8;
     font-size: 15px
-}
-
-.form-control {
-    margin-right: 12px
 }
 
 .form-control:focus {
